@@ -6,13 +6,13 @@ A Python script that fetches and displays ASCII art from a published Google Docs
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/ascii-art-viewer.git
+   git clone https://github.com/Mamembeshir/ascii-art-viewer.git
    cd ascii-art-viewer
    ```
 
 2. **Set up a virtual environment (recommended)**
    ```bash
-   python -m venv venv
+   python3 -m venv venv
    source venv/bin/activate 
    ```
 
