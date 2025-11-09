@@ -26,6 +26,7 @@ Run the script:
 python main.py --url https://docs.google.com/document/d/e/2PACX-1vRCzUup1R8CGy3zk7DkdzJyMRvJRPI75Vl3s_9HelL7pr49bzi7-cBxg0zSKwxcWiEvNPxi4Wjj8c0n/pub
 ```
 3. **this is the output i got when running the command**
+```text
 Fetching data...
 Rendering ASCII art:
 
