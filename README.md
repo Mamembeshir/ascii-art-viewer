@@ -1,0 +1,28 @@
+# 🧩 ASCII Art Viewer
+
+A Python script that fetches and displays ASCII art from a published Google Docs page. The script parses HTML tables from the Google Doc and renders them as ASCII art in the terminal.
+
+## 🚀 Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/ascii-art-viewer.git
+   cd ascii-art-viewer
+   ```
+
+2. **Set up a virtual environment (recommended)**
+   ```bash
+   python -m venv venv
+   source venv/bin/activate 
+   ```
+
+3. **Install dependencies**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+Run the script:
+```bash
+python main.py --url https://docs.google.com/document/d/e/2PACX-1vRCzUup1R8CGy3zk7DkdzJyMRvJRPI75Vl3s_9HelL7pr49bzi7-cBxg0zSKwxcWiEvNPxi4Wjj8c0n/pub
+```
+
